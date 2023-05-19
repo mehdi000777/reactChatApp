@@ -1,0 +1,36 @@
+20230514	17:15:35	47233c83-3f89-401a-9d61-e8b90f4b81b4	SyntaxError: Unexpected token } in JSON at position 28	POST	/auth/login	undefined
+20230515	16:01:12	77bea053-80a0-4442-b079-4b510a91947e	Error: Not allowed by CORS	OPTIONS	/auth/register	http://localhost:3000
+20230515	16:01:30	2186c3b3-0c2f-4bd0-93c4-49d2308df897	Error: Not allowed by CORS	OPTIONS	/auth/register	http://localhost:3000
+20230515	16:03:26	df32b46a-1e99-4c37-9a04-0729a883ed3e	Error: Not allowed by CORS	OPTIONS	/auth/register	http://localhost:3000
+20230515	16:11:03	88dbc12d-c481-44b0-a20c-9948730dd955	Error: Not allowed by CORS	OPTIONS	/auth/register	http://localhost:3000
+20230515	16:11:55	dc3e738a-59a7-4fe1-969c-fe695e071df0	Error: Not allowed by CORS	OPTIONS	/auth/register	http://localhost:3000
+20230515	16:12:53	1b7008bd-2a57-4dcf-9c7e-27328cc6fd3b	Error: Not allowed by CORS	OPTIONS	/auth/register	http://localhost:3000
+20230515	16:14:00	ed4d381a-0a44-4da3-9eb0-59a4c2ac973c	Error: Not allowed by CORS	OPTIONS	/auth/register	http://localhost:3000
+20230515	18:18:54	c4e488bf-26f9-4975-9da4-46142ac2b8ce	Error: Not allowed by CORS	GET	/auth/refresh	http://localhost:3000
+20230517	17:49:13	97368a9e-982e-485d-911e-a1c4f52636e5	StrictPopulateError: Cannot populate path `recipier` because it is not in your schema. Set the `strictPopulate` option to false to override.	GET	/messages/64621c7c889cc1ddf0ae5806	http://localhost:3000
+20230518	13:37:51	c33cfdc2-93d8-4e9b-8936-e032ae0241f2	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:38:22	1281ebcf-33f2-4ab5-a17c-4d4a3c51a065	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:38:49	2960f5b3-cb9f-4b38-a23d-3a6e2ae23798	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:38:51	03eb02b8-e1be-46e8-97ba-d19c130ab8ad	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:38:55	dcd0963c-64ef-45cd-91cd-6d30149119ea	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:41:00	0eef55b3-701d-4241-b1f0-6a325c36ab21	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:41:03	f983f2bd-df99-43da-bcb1-3fc96cb08c39	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:42:56	b93848e0-4e22-483d-b347-23390ea2fa52	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:43:18	b4d8a011-ce12-4cd9-8985-3b9888b0e159	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:46:41	33f4f1b3-9078-47c7-9013-57a3a91009f4	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:46:57	2ed3c972-ef44-4bc0-b52e-5821c5275f03	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:47:18	11b44c16-ef2d-4067-bcd6-c36d78c696b3	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:48:42	cd3a33e6-5808-47f5-955d-e5fddd886225	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:49:57	94418607-c5a4-4e9a-aefe-ebe564c6161c	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:55:06	791a0d6e-445e-43e0-a4a1-ce76461bceb0	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:55:14	7042645c-fc19-4e1a-a552-56859cec5ac2	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:55:25	d8df9be5-b73d-4680-b558-137495f6b728	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:55:31	c196fb1e-7c19-4e95-a3e3-94f77568329e	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:55:32	0b192911-e0a7-4547-bda4-f6f38ff4f592	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:55:33	ed0892cc-2e5a-43f4-aec8-073406c5e1f5	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	13:55:42	30facc77-767c-4b5a-8809-bb103d3d328a	CastError: Cast to ObjectId failed for value "people" (type string) at path "recipient" for model "message"	GET	/messages/people	http://localhost:3000
+20230518	16:50:50	328cc3c7-744f-459f-bc1d-52fa398daa56	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "recipient" for model "message"	GET	/messages/undefined	http://localhost:3000
+20230518	16:50:52	8e6e6511-6d84-49db-8bd0-f2245e386f71	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "recipient" for model "message"	GET	/messages/undefined	http://localhost:3000
+20230518	16:51:37	22ce1dde-dddb-40b2-a796-51c8ec715961	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "recipient" for model "message"	GET	/messages/undefined	http://localhost:3000
+20230518	16:51:37	0f60fcc2-adec-4961-871d-46da8f493420	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "recipient" for model "message"	GET	/messages/undefined	http://localhost:3000
+20230518	16:51:40	4f451193-40c9-41cc-a9f4-db6e30367a20	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "recipient" for model "message"	GET	/messages/undefined	http://localhost:3000
